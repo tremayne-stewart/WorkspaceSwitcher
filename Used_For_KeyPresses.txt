@@ -1,0 +1,6 @@
+This is used to sikmulate the key presses
+
+xdotool key Ctrl+c
+xdotool key Super+a
+xdotool key Control+Alt+Right
+xdotool key Control+Alt+Left
